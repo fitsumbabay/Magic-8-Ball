@@ -1,0 +1,14 @@
+#eightBall {
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  margin-top: 10px;
+  color: white;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+#answers {
+  position: relative;
+  top: 200px;
+}
